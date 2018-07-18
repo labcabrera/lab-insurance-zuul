@@ -1,0 +1,7 @@
+= Zuul module - Open Asset Management System
+
+:linkLabInsurance: https://github.com/labcabrera/lab-insurance
+
+== Introducción
+
+Proxy del proyecto {linkLabInsurance}[lab-insurance].
